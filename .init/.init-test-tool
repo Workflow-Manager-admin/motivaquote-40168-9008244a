@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/motivaquote-40168-9008244a/motivational_quote_backend"
+}
